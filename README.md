@@ -5,7 +5,8 @@ actualmente estudio el 1er año de
 Tecnicatura Sup. en desarrollo de software,
 mi objetivo es terminar este curso,
 recibirme, trabajar algo relacionado y 
-tener mi propio empredimiento 
+tener mi propio empredimiento.
+
  CRUD: es la manera que tiene un 
 desadorrollador de interactuar con todas 
 las bases de datos y editar, leer crear y 
