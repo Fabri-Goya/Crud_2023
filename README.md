@@ -9,5 +9,5 @@ tener mi propio empredimiento.
 
  CRUD: es la manera que tiene un 
 desadorrollador de interactuar con todas 
-las bases de datos y editar, leer crear y 
+las bases de datos, editar, leer crear y 
 modificar estas.
